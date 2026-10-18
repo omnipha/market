@@ -170,6 +170,66 @@
       ],
       "samples": 1,
       "note": "single listing observed; thin used supply"
+    },
+    {
+      "device": "xiaomi-cepheus",
+      "estimate_eur": [
+        65,
+        120
+      ],
+      "samples": null,
+      "note": "8GB variants rare on ebay.de; observed listings 65-90 EUR are mostly 6GB"
+    },
+    {
+      "device": "xiaomi-equuleus",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "no complete-device listings on ebay.de right now"
+    },
+    {
+      "device": "xiaomi-begonia",
+      "estimate_eur": [
+        60,
+        150
+      ],
+      "samples": null,
+      "note": "used complete handsets, title-filtered, 2026-10-18"
+    },
+    {
+      "device": "xiaomi-miatoll",
+      "estimate_eur": [
+        46,
+        120
+      ],
+      "samples": null,
+      "note": "8/128 only on global Note 9 Pro; codename also covers 9S/curtana/joyeuse/gram"
+    },
+    {
+      "device": "xiaomi-pipa",
+      "estimate_eur": [
+        195,
+        220
+      ],
+      "samples": null,
+      "note": "tablet; used 8/256 ~220 EUR, 6/128 ~195 EUR"
+    },
+    {
+      "device": "shift-otter",
+      "estimate_eur": [
+        630,
+        630
+      ],
+      "samples": 1,
+      "note": "no used market yet; one new 8.1 512GB listing"
+    },
+    {
+      "device": "jolla-c2",
+      "estimate_eur": [
+        449,
+        449
+      ],
+      "samples": 1,
+      "note": "single listing observed; niche community device"
     }
   ]
 }
