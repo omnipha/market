@@ -437,6 +437,96 @@
       ],
       "samples": 2,
       "note": "used complete handsets, 2026-10-19; Mi 10T 6/128 ~55, 8/128 ~100; sold in DE; port candidate SD865"
+    },
+    {
+      "device": "xiaomi-mondrian",
+      "estimate_eur": [
+        169,
+        185
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19"
+    },
+    {
+      "device": "xiaomi-socrates",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "xiaomi-vermeer",
+      "estimate_eur": [
+        279,
+        299
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19"
+    },
+    {
+      "device": "oneplus-salami",
+      "estimate_eur": [
+        229,
+        280
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19"
+    },
+    {
+      "device": "oneplus-aston",
+      "estimate_eur": [
+        270,
+        299
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19"
+    },
+    {
+      "device": "oneplus-avalon",
+      "estimate_eur": [
+        260,
+        260
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19"
+    },
+    {
+      "device": "asus-sake",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "asus-obiwan",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "xiaomi-cas",
+      "estimate_eur": [
+        261,
+        261
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19"
+    },
+    {
+      "device": "nubia-nx659j",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "xiaomi-garnet",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "xiaomi-marble",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
     }
   ]
 }
