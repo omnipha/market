@@ -1,6 +1,6 @@
 {
   "currency": "EUR",
-  "observed": "2026-10-18",
+  "observed": "2026-10-19",
   "source": "ebay.de",
   "devices": [
     {
@@ -341,6 +341,75 @@
       "estimate_eur": null,
       "samples": null,
       "note": "not searched live"
+    },
+    {
+      "device": "xiaomi-alioth",
+      "estimate_eur": [
+        119,
+        150
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19; port candidate: sm8250 family kernel already used by elish/pipa in mainline; alioth DT missing"
+    },
+    {
+      "device": "xiaomi-lmi",
+      "estimate_eur": [
+        110,
+        110
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19; port candidate: sm8250 family; no mainline DT yet"
+    },
+    {
+      "device": "xiaomi-raphael",
+      "estimate_eur": [
+        50,
+        150
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19; port candidate: sm8150 family like vayu; many unlocked-bootloader units"
+    },
+    {
+      "device": "xiaomi-umi",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "used complete handsets, title-filtered, 2026-10-19; port candidate; Mi 10 Pro (cmi) is a separate model; no clean used Mi 10 listing seen"
+    },
+    {
+      "device": "oppo-cph2025",
+      "estimate_eur": [
+        180,
+        255
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19; port candidate: no mainline DT; Oppo bootloader unlock restricted"
+    },
+    {
+      "device": "oppo-cph2065",
+      "estimate_eur": [
+        99,
+        152
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19; port candidate: no mainline DT; 12GB in every variant"
+    },
+    {
+      "device": "realme-rmx3301",
+      "estimate_eur": [
+        172,
+        172
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19; port candidate: sm8450 family; 1 used listing 12/256 at 172 EUR"
+    },
+    {
+      "device": "xiaomi-ares",
+      "estimate_eur": [
+        160,
+        160
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19; MediaTek; mainline support very weak; only for completeness"
     }
   ]
 }
