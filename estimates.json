@@ -692,6 +692,33 @@
       "estimate_eur": null,
       "samples": null,
       "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "realme-rmx2202",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "realme-rmx3370",
+      "estimate_eur": [
+        180,
+        180
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19"
+    },
+    {
+      "device": "oppo-cph2173",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "oppo-cph2305",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
     }
   ]
 }
