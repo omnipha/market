@@ -275,30 +275,24 @@
     },
     {
       "device": "xiaomi-polaris",
-      "estimate_eur": [
-        120,
-        120
-      ],
-      "samples": 1,
-      "note": "8GB ceramic variant; thin used supply"
+      "estimate_eur": null,
+      "samples": null,
+      "note": "only a 6/64 listing seen (120 EUR); 8GB variant not observed"
     },
     {
       "device": "razer-aura",
       "estimate_eur": [
-        71,
-        185
+        128,
+        186
       ],
       "samples": null,
       "note": "single config 8/64; gaming phone"
     },
     {
       "device": "asus-zs620kl",
-      "estimate_eur": [
-        119,
-        119
-      ],
-      "samples": 1,
-      "note": "8/256 exists but rare; observed listing did not state RAM"
+      "estimate_eur": null,
+      "samples": null,
+      "note": "one 64GB listing seen, RAM not stated"
     },
     {
       "device": "samsung-beyond1lte",
