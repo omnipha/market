@@ -335,6 +335,12 @@
       ],
       "samples": null,
       "note": "always 12GB"
+    },
+    {
+      "device": "samsung-a52q",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live"
     }
   ]
 }
