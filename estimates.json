@@ -527,6 +527,111 @@
       "estimate_eur": null,
       "samples": null,
       "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "xiaomi-perseus",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "xiaomi-shark",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "xiaomi-ursa",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "xiaomi-cmi",
+      "estimate_eur": [
+        95,
+        95
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19"
+    },
+    {
+      "device": "xiaomi-thyme",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "xiaomi-venus",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "xiaomi-cupid",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "xiaomi-zeus",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "xiaomi-munch",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "oneplus-guacamoleb",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "oneplus-hotdog",
+      "estimate_eur": [
+        169,
+        169
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19"
+    },
+    {
+      "device": "oneplus-instantnoodle",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "oneplus-lemonade",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "oneplus-lemonadep",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "oneplus-avicii",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "xiaomi-diting",
+      "estimate_eur": [
+        140,
+        220
+      ],
+      "samples": 1,
+      "note": "used complete handsets, title-filtered, 2026-10-19"
     }
   ]
 }
