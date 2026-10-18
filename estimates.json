@@ -272,6 +272,75 @@
       "estimate_eur": null,
       "samples": null,
       "note": "no qualifying used listings in current search window"
+    },
+    {
+      "device": "xiaomi-polaris",
+      "estimate_eur": [
+        120,
+        120
+      ],
+      "samples": 1,
+      "note": "8GB ceramic variant; thin used supply"
+    },
+    {
+      "device": "razer-aura",
+      "estimate_eur": [
+        71,
+        185
+      ],
+      "samples": null,
+      "note": "single config 8/64; gaming phone"
+    },
+    {
+      "device": "asus-zs620kl",
+      "estimate_eur": [
+        119,
+        119
+      ],
+      "samples": 1,
+      "note": "8/256 exists but rare; observed listing did not state RAM"
+    },
+    {
+      "device": "samsung-beyond1lte",
+      "estimate_eur": [
+        65,
+        150
+      ],
+      "samples": null,
+      "note": "SM-G973F only; 8/128 and 8/512 observed"
+    },
+    {
+      "device": "samsung-beyond2lte",
+      "estimate_eur": [
+        127,
+        195
+      ],
+      "samples": null,
+      "note": "12GB only with 1TB ceramic"
+    },
+    {
+      "device": "samsung-beyondx",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live"
+    },
+    {
+      "device": "samsung-d1",
+      "estimate_eur": [
+        95,
+        250
+      ],
+      "samples": null,
+      "note": "single config 8/256"
+    },
+    {
+      "device": "samsung-d1x",
+      "estimate_eur": [
+        128,
+        270
+      ],
+      "samples": null,
+      "note": "always 12GB"
     }
   ]
 }
