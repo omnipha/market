@@ -419,6 +419,24 @@
       ],
       "samples": 2,
       "note": "used complete handsets (X4 GT 8/128 160, 8/256 190), 2026-10-19"
+    },
+    {
+      "device": "xiaomi-haydn",
+      "estimate_eur": [
+        185,
+        195
+      ],
+      "samples": 2,
+      "note": "used complete handsets, 2026-10-19; K40 Pro unlocked+TWRP 185; Mi 11i EU 8/256 ~195; port candidate SD888"
+    },
+    {
+      "device": "xiaomi-apollo",
+      "estimate_eur": [
+        55,
+        100
+      ],
+      "samples": 2,
+      "note": "used complete handsets, 2026-10-19; Mi 10T 6/128 ~55, 8/128 ~100; sold in DE; port candidate SD865"
     }
   ]
 }
