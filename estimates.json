@@ -1,0 +1,67 @@
+{
+  "currency": "EUR",
+  "observed": "2026-10-17",
+  "source": "ebay.de",
+  "devices": [
+    {
+      "device": "xiaomi-surya",
+      "estimate_eur": [
+        80,
+        130
+      ],
+      "samples": null,
+      "note": "complete used devices"
+    },
+    {
+      "device": "fairphone-fp4",
+      "estimate_eur": [
+        280,
+        330
+      ],
+      "samples": null,
+      "note": "private sellers; 8/256 commercial around 396"
+    },
+    {
+      "device": "fairphone-fp5",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "most listings above 300; not counted live"
+    },
+    {
+      "device": "oneplus-enchilada",
+      "estimate_eur": [
+        110,
+        121
+      ],
+      "samples": 2,
+      "note": "unmodified devices of 11 used listings"
+    },
+    {
+      "device": "oneplus-fajita",
+      "estimate_eur": [
+        133,
+        166
+      ],
+      "samples": 4,
+      "note": "unmodified devices; new units 134-143"
+    },
+    {
+      "device": "google-sargo",
+      "estimate_eur": [
+        94,
+        185
+      ],
+      "samples": 6,
+      "note": "buy-it-now of unmodified devices"
+    },
+    {
+      "device": "google-bonito",
+      "estimate_eur": [
+        99,
+        153
+      ],
+      "samples": 3,
+      "note": "unmodified devices"
+    }
+  ]
+}

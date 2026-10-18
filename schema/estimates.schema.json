@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "omnipha/market estimates.json",
+  "description": "Used-market price estimates per device variant. Estimates only, aggregated from observed listings; not offers.",
+  "type": "object",
+  "required": ["currency", "observed", "source", "devices"],
+  "properties": {
+    "currency": {"const": "EUR", "description": "Base currency. USD is derived at display time with a dated exchange rate."},
+    "observed": {"type": "string", "description": "Date of last observation, YYYY-MM-DD"},
+    "source": {"type": "string", "description": "Where prices were observed, e.g. ebay.de"},
+    "devices": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["device", "estimate_eur"],
+        "properties": {
+          "device": {"type": "string", "description": "Device id matching omnipha/ports devices/<id>/device.yaml"},
+          "variant": {
+            "type": ["object", "null"],
+            "description": "Optional: applies to one ram/storage combination from ports variants. null = all variants.",
+            "properties": {
+              "ram_gb": {"type": ["number", "null"]},
+              "storage_gb": {"type": ["number", "null"]}
+            }
+          },
+          "estimate_eur": {
+            "type": ["array", "null"],
+            "items": {"type": "number"},
+            "description": "[low, high] observed used-price range, complete working devices"
+          },
+          "median_eur": {"type": ["number", "null"]},
+          "samples": {"type": ["number", "null"], "description": "Listings behind the estimate; null = not counted"},
+          "note": {"type": ["string", "null"]}
+        }
+      }
+    }
+  }
+}
