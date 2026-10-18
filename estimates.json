@@ -385,7 +385,7 @@
       "note": "used complete handsets, title-filtered, 2026-10-19; port candidate: no mainline DT; Oppo bootloader unlock restricted"
     },
     {
-      "device": "oppo-cph2065",
+      "device": "oppo-cph2009",
       "estimate_eur": [
         99,
         152
@@ -400,7 +400,7 @@
         172
       ],
       "samples": 1,
-      "note": "used complete handsets, title-filtered, 2026-10-19; port candidate: sm8450 family; 1 used listing 12/256 at 172 EUR"
+      "note": "used complete handsets, title-filtered, 2026-10-19; port candidate: sm8450 family; 1 used listing 12/256 at 172 EUR; 8/128 was EU base variant"
     },
     {
       "device": "xiaomi-ares",
