@@ -652,12 +652,6 @@
       "note": "not searched live, 2026-10-19"
     },
     {
-      "device": "oneplus-pgp110",
-      "estimate_eur": null,
-      "samples": null,
-      "note": "not searched live, 2026-10-19"
-    },
-    {
       "device": "vivo-v2304a",
       "estimate_eur": null,
       "samples": null,
@@ -676,7 +670,7 @@
       "note": "not searched live, 2026-10-19"
     },
     {
-      "device": "vivo-i2302",
+      "device": "vivo-v2352a",
       "estimate_eur": null,
       "samples": null,
       "note": "not searched live, 2026-10-19"
@@ -716,6 +710,12 @@
     },
     {
       "device": "oppo-cph2305",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "oneplus-php110",
       "estimate_eur": null,
       "samples": null,
       "note": "not searched live, 2026-10-19"
