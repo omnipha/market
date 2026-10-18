@@ -230,6 +230,48 @@
       ],
       "samples": 1,
       "note": "single listing observed; niche community device"
+    },
+    {
+      "device": "google-bluejay",
+      "estimate_eur": [
+        97,
+        135
+      ],
+      "samples": null,
+      "note": "used complete handsets, title-filtered, 2026-10-18"
+    },
+    {
+      "device": "google-flame",
+      "estimate_eur": [
+        109,
+        109
+      ],
+      "samples": 1,
+      "note": "thin used supply"
+    },
+    {
+      "device": "xiaomi-pyxis",
+      "estimate_eur": [
+        70,
+        94
+      ],
+      "samples": null,
+      "note": "used complete handsets, title-filtered, 2026-10-18"
+    },
+    {
+      "device": "xiaomi-gauguin",
+      "estimate_eur": [
+        59,
+        130
+      ],
+      "samples": null,
+      "note": "always 6GB; listings advertising 8GB are mislabeled"
+    },
+    {
+      "device": "xiaomi-jasmine_sprout",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "no qualifying used listings in current search window"
     }
   ]
 }
