@@ -20,3 +20,5 @@ jobs:
           python-version: "3.12"
       - run: pip install jsonschema
       - run: python3 tools/check.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}

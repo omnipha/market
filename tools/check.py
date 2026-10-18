@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Validate estimates.json against schema and omnipha/ports device ids."""
 import json
+import os
 import sys
 import urllib.request
 from pathlib import Path
@@ -8,7 +9,17 @@ from pathlib import Path
 import jsonschema
 
 ROOT = Path(__file__).resolve().parent.parent
-PORTS_IDS_URL = "https://raw.githubusercontent.com/omnipha/ports/main/devices.json"
+# API instead of raw.githubusercontent.com: the raw CDN caches for minutes.
+PORTS_IDS_URL = "https://api.github.com/repos/omnipha/ports/contents/devices.json?ref=main"
+
+
+def fetch_ports_index():
+    headers = {"Accept": "application/vnd.github.raw", "User-Agent": "omnipha-market-check"}
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    req = urllib.request.Request(PORTS_IDS_URL, headers=headers)
+    return json.loads(urllib.request.urlopen(req, timeout=30).read())
 
 
 def main():
@@ -19,7 +30,7 @@ def main():
         print(f"schema: {'/'.join(map(str, err.path))}: {err.message}", file=sys.stderr)
         errors += 1
     try:
-        ports = json.loads(urllib.request.urlopen(PORTS_IDS_URL, timeout=30).read())
+        ports = fetch_ports_index()
         known = {d["id"] for d in ports}
     except Exception as exc:
         print(f"warning: could not fetch ports index ({exc}); skipping device-id check", file=sys.stderr)

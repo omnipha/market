@@ -1,6 +1,6 @@
 {
   "currency": "EUR",
-  "observed": "2026-10-17",
+  "observed": "2026-10-18",
   "source": "ebay.de",
   "devices": [
     {
@@ -62,6 +62,114 @@
       ],
       "samples": 3,
       "note": "unmodified devices"
+    },
+    {
+      "device": "google-oriole",
+      "estimate_eur": [
+        122,
+        179
+      ],
+      "samples": null,
+      "note": "used complete handsets, title-filtered, 2026-10-18"
+    },
+    {
+      "device": "google-raven",
+      "estimate_eur": [
+        111,
+        200
+      ],
+      "samples": null,
+      "note": "used complete handsets, title-filtered, 2026-10-18"
+    },
+    {
+      "device": "oneplus-guacamole",
+      "estimate_eur": [
+        140,
+        199
+      ],
+      "samples": null,
+      "note": "used complete handsets, title-filtered, 2026-10-18"
+    },
+    {
+      "device": "oneplus-instantnoodlep",
+      "estimate_eur": [
+        99,
+        228
+      ],
+      "samples": null,
+      "note": "used complete handsets, title-filtered, 2026-10-18"
+    },
+    {
+      "device": "oneplus-kebab",
+      "estimate_eur": [
+        110,
+        259
+      ],
+      "samples": null,
+      "note": "used complete handsets, title-filtered, 2026-10-18"
+    },
+    {
+      "device": "nothing-spacewar",
+      "estimate_eur": [
+        150,
+        180
+      ],
+      "samples": null,
+      "note": "used complete handsets, title-filtered, 2026-10-18"
+    },
+    {
+      "device": "nothing-tetris",
+      "estimate_eur": [
+        119,
+        290
+      ],
+      "samples": null,
+      "note": "used complete handsets, title-filtered, 2026-10-18"
+    },
+    {
+      "device": "xiaomi-vayu",
+      "estimate_eur": [
+        99,
+        178
+      ],
+      "samples": null,
+      "note": "vayu = global model; bhima = India variant with separate firmware"
+    },
+    {
+      "device": "motorola-dubai",
+      "estimate_eur": [
+        113,
+        149
+      ],
+      "samples": null,
+      "note": "used complete handsets, title-filtered, 2026-10-18"
+    },
+    {
+      "device": "sony-pdx215",
+      "estimate_eur": [
+        199,
+        285
+      ],
+      "samples": null,
+      "note": "used complete handsets, title-filtered, 2026-10-18"
+    },
+    {
+      "device": "samsung-a72q",
+      "estimate_eur": [
+        120,
+        220
+      ],
+      "samples": null,
+      "note": "4G model SM-A725x only; Galaxy A72 5G (SM-A726B) is a different device"
+    },
+    {
+      "device": "fairphone-fp6",
+      "estimate_eur": [
+        500,
+        500
+      ],
+      "samples": 1,
+      "note": "single listing observed; thin used supply"
     }
   ]
 }
