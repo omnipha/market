@@ -349,7 +349,7 @@
         150
       ],
       "samples": 1,
-      "note": "used complete handsets, title-filtered, 2026-10-19; port candidate: sm8250 family kernel already used by elish/pipa in mainline; alioth DT missing"
+      "note": "used complete handsets, title-filtered, 2026-10-19; port candidate: sm8250 family kernel already used by elish/pipa in mainline; alioth DT missing; backmarket.de sold out (live check), 2026-10-19"
     },
     {
       "device": "xiaomi-lmi",
@@ -418,7 +418,7 @@
         190
       ],
       "samples": 2,
-      "note": "used complete handsets (X4 GT 8/128 160, 8/256 190), 2026-10-19"
+      "note": "used complete handsets (X4 GT 8/128 160, 8/256 190), 2026-10-19; backmarket.de sold out (live check), 2026-10-19"
     },
     {
       "device": "xiaomi-haydn",
@@ -460,7 +460,7 @@
         299
       ],
       "samples": 1,
-      "note": "used complete handsets, title-filtered, 2026-10-19"
+      "note": "used complete handsets, title-filtered, 2026-10-19; backmarket.de sold out (live check), 2026-10-19"
     },
     {
       "device": "oneplus-salami",
@@ -469,7 +469,7 @@
         280
       ],
       "samples": 1,
-      "note": "used complete handsets, title-filtered, 2026-10-19; backmarket.de listing 900-949 EUR (2026-10-19, search snippet)"
+      "note": "used complete handsets, title-filtered, 2026-10-19; backmarket.de listing 900-949 EUR (2026-10-19, search snippet); backmarket.de from 385 EUR (from price; 564 base tier), 2026-10-19"
     },
     {
       "device": "oneplus-aston",
@@ -478,7 +478,7 @@
         299
       ],
       "samples": 1,
-      "note": "used complete handsets, title-filtered, 2026-10-19"
+      "note": "used complete handsets, title-filtered, 2026-10-19; backmarket.de from 373 EUR (427 base tier), 2026-10-19"
     },
     {
       "device": "oneplus-avalon",
@@ -577,7 +577,7 @@
       "device": "xiaomi-zeus",
       "estimate_eur": null,
       "samples": null,
-      "note": "not searched live, 2026-10-19"
+      "note": "not searched live, 2026-10-19; backmarket.de from 355 EUR, 2026-10-19"
     },
     {
       "device": "xiaomi-munch",
@@ -598,7 +598,7 @@
         169
       ],
       "samples": 1,
-      "note": "used complete handsets, title-filtered, 2026-10-19"
+      "note": "used complete handsets, title-filtered, 2026-10-19; backmarket.de McLaren edition sold out (live check), 2026-10-19"
     },
     {
       "device": "oneplus-instantnoodle",
@@ -631,7 +631,7 @@
         220
       ],
       "samples": 1,
-      "note": "used complete handsets, title-filtered, 2026-10-19; backmarket.de refurbished 258-349 EUR (2026-10-19, search snippet)"
+      "note": "used complete handsets, title-filtered, 2026-10-19; backmarket.de refurbished 258-349 EUR (2026-10-19, search snippet); backmarket.de from 265 EUR (live read via SprintCX browser), 2026-10-19"
     },
     {
       "device": "realme-pgkm10",
