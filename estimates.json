@@ -517,6 +517,12 @@
       "note": "not searched live, 2026-10-19"
     },
     {
+      "device": "xiaomi-emerald",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "No used-price sample verified; 2026-10-19. Redmi Note 13 Pro 4G (emerald), not 5G garnet."
+    },
+    {
       "device": "xiaomi-garnet",
       "estimate_eur": null,
       "samples": null,
