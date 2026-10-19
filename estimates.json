@@ -719,6 +719,12 @@
       "estimate_eur": null,
       "samples": null,
       "note": "not searched live, 2026-10-19"
+    },
+    {
+      "device": "nothing-asteroids",
+      "estimate_eur": null,
+      "samples": null,
+      "note": "not searched live, 2026-10-19"
     }
   ]
 }
