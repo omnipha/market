@@ -1223,6 +1223,15 @@
       ],
       "samples": null,
       "note": null
+    },
+    {
+      "device": "motorola-cybert",
+      "estimate_eur": [
+        381.21,
+        381.21
+      ],
+      "samples": null,
+      "note": null
     }
   ]
 }
