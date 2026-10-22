@@ -1196,6 +1196,33 @@
       ],
       "samples": null,
       "note": null
+    },
+    {
+      "device": "samsung-c2s",
+      "estimate_eur": [
+        300,
+        400
+      ],
+      "samples": null,
+      "note": null
+    },
+    {
+      "device": "samsung-z3s",
+      "estimate_eur": [
+        198,
+        222
+      ],
+      "samples": null,
+      "note": null
+    },
+    {
+      "device": "samsung-b0s",
+      "estimate_eur": [
+        289,
+        289
+      ],
+      "samples": null,
+      "note": null
     }
   ]
 }
