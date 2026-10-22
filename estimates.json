@@ -1142,6 +1142,60 @@
       "estimate_eur": null,
       "samples": null,
       "note": "No per-model verified EUR used-price sample on 2026-10-20; do not infer from advertising/virtual RAM."
+    },
+    {
+      "device": "motorola-pstar",
+      "estimate_eur": [
+        170,
+        234
+      ],
+      "samples": null,
+      "note": null
+    },
+    {
+      "device": "motorola-tundra",
+      "estimate_eur": [
+        206,
+        255
+      ],
+      "samples": null,
+      "note": null
+    },
+    {
+      "device": "motorola-rtwo",
+      "estimate_eur": [
+        307,
+        307
+      ],
+      "samples": null,
+      "note": null
+    },
+    {
+      "device": "motorola-bangkk",
+      "estimate_eur": [
+        149,
+        280
+      ],
+      "samples": null,
+      "note": null
+    },
+    {
+      "device": "nothing-pong",
+      "estimate_eur": [
+        230,
+        312
+      ],
+      "samples": null,
+      "note": null
+    },
+    {
+      "device": "sony-pdx203",
+      "estimate_eur": [
+        183,
+        183
+      ],
+      "samples": null,
+      "note": null
     }
   ]
 }
