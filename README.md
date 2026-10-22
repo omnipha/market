@@ -20,8 +20,9 @@ device database in [omnipha/ports](https://github.com/omnipha/ports).
 
 ## Update
 
-Observations are collected by maintainers (used-market listings, e.g.
-ebay.de) and committed. CI checks schema and device-id references.
+Maintainers commit the latest dated eBay range per device. Listing notes,
+seller details and prices from other markets are not published. CI checks
+schema and device-id references.
 
 ## License
 
