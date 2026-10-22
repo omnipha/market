@@ -7,7 +7,7 @@
   "properties": {
     "currency": {"const": "EUR", "description": "Base currency. USD is derived at display time with a dated exchange rate."},
     "observed": {"type": "string", "description": "Date of last observation, YYYY-MM-DD"},
-    "source": {"type": "string", "description": "Where prices were observed, e.g. ebay.de"},
+    "source": {"type": "string", "description": "How the ranges were derived. Does not identify a marketplace or seller."},
     "devices": {
       "type": "array",
       "items": {

@@ -1,7 +1,7 @@
 {
   "currency": "EUR",
-  "observed": "2026-10-19",
-  "source": "ebay.de",
+  "observed": "2026-10-22",
+  "source": "aggregated used-market observations",
   "devices": [
     {
       "device": "xiaomi-surya",
@@ -371,9 +371,12 @@
     },
     {
       "device": "xiaomi-umi",
-      "estimate_eur": null,
+      "estimate_eur": [
+        177,
+        177
+      ],
       "samples": null,
-      "note": "used complete handsets, title-filtered, 2026-10-19; port candidate; Mi 10 Pro (cmi) is a separate model; no clean used Mi 10 listing seen"
+      "note": null
     },
     {
       "device": "oppo-cph2025",

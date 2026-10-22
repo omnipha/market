@@ -20,9 +20,10 @@ device database in [omnipha/ports](https://github.com/omnipha/ports).
 
 ## Update
 
-Maintainers commit the latest dated eBay range per device. Listing notes,
-seller details and prices from other markets are not published. CI checks
-schema and device-id references.
+Maintainers derive each range from their latest confirmed observations.
+The published range spans those markets; it is not an average and does not
+name a market. Listing notes, sellers and per-market prices stay unpublished.
+CI checks schema and device-id references.
 
 ## License
 

@@ -8,7 +8,7 @@ Purpose: public used-price estimates per device, joined with omnipha/ports.
 
 ## Conventions
 - Values are estimates in EUR with `observed` date. Anyone may refresh them via PR.
-- `estimate_eur` is the latest dated eBay range from maintainer observations. Listing notes, seller details and other markets stay out of this repo.
+- `estimate_eur` is the span of the latest confirmed market observations, not an average. An unconfirmed observation does not change it. Listing notes, sellers and per-market prices stay out of this repo.
 - `device` must exist in omnipha/ports `devices/<id>/`. CI fails otherwise.
 - No listing URLs, no seller identifiers, no eBay user data.
 - Never store USD or other converted currencies.
