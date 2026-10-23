@@ -76,10 +76,10 @@
       "device": "google-raven",
       "estimate_eur": [
         111,
-        200
+        248
       ],
       "samples": null,
-      "note": "used complete handsets, title-filtered, 2026-10-18"
+      "note": null
     },
     {
       "device": "oneplus-guacamole",
@@ -331,10 +331,10 @@
       "device": "samsung-d1x",
       "estimate_eur": [
         128,
-        270
+        308.15
       ],
       "samples": null,
-      "note": "always 12GB"
+      "note": null
     },
     {
       "device": "samsung-a52q",
@@ -382,10 +382,10 @@
       "device": "oppo-cph2025",
       "estimate_eur": [
         180,
-        255
+        291.81
       ],
-      "samples": 1,
-      "note": "used complete handsets, title-filtered, 2026-10-19; port candidate: no mainline DT; Oppo bootloader unlock restricted"
+      "samples": null,
+      "note": null
     },
     {
       "device": "oppo-cph2009",
@@ -521,9 +521,12 @@
     },
     {
       "device": "xiaomi-emerald",
-      "estimate_eur": null,
+      "estimate_eur": [
+        175,
+        175
+      ],
       "samples": null,
-      "note": "No used-price sample verified; 2026-10-19. Redmi Note 13 Pro 4G (emerald), not 5G garnet."
+      "note": null
     },
     {
       "device": "xiaomi-garnet",
@@ -1183,7 +1186,7 @@
       "device": "nothing-pong",
       "estimate_eur": [
         230,
-        312
+        556
       ],
       "samples": null,
       "note": null
@@ -1210,7 +1213,7 @@
       "device": "samsung-z3s",
       "estimate_eur": [
         198,
-        222
+        345.55
       ],
       "samples": null,
       "note": null
@@ -1219,7 +1222,7 @@
       "device": "samsung-b0s",
       "estimate_eur": [
         289,
-        289
+        508.39
       ],
       "samples": null,
       "note": null
@@ -1247,6 +1250,69 @@
       "estimate_eur": [
         286.0,
         401.0
+      ],
+      "samples": null,
+      "note": null
+    },
+    {
+      "device": "google-tokay",
+      "estimate_eur": [
+        380,
+        435
+      ],
+      "samples": null,
+      "note": null
+    },
+    {
+      "device": "google-caiman",
+      "estimate_eur": [
+        485,
+        548
+      ],
+      "samples": null,
+      "note": null
+    },
+    {
+      "device": "sony-pdx245",
+      "estimate_eur": [
+        800,
+        900
+      ],
+      "samples": null,
+      "note": null
+    },
+    {
+      "device": "sony-pdx234",
+      "estimate_eur": [
+        780,
+        780
+      ],
+      "samples": null,
+      "note": null
+    },
+    {
+      "device": "oneplus-waffle",
+      "estimate_eur": [
+        547,
+        610
+      ],
+      "samples": null,
+      "note": null
+    },
+    {
+      "device": "oneplus-dodge",
+      "estimate_eur": [
+        798,
+        814
+      ],
+      "samples": null,
+      "note": null
+    },
+    {
+      "device": "oneplus-giulia",
+      "estimate_eur": [
+        500,
+        554
       ],
       "samples": null,
       "note": null
