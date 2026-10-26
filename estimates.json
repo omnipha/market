@@ -1,6 +1,6 @@
 {
   "currency": "EUR",
-  "observed": "2026-10-25",
+  "observed": "2026-10-26",
   "source": "aggregated used-market observations",
   "devices": [
     {
@@ -469,10 +469,10 @@
       "device": "oneplus-salami",
       "estimate_eur": [
         229,
-        280
+        370
       ],
-      "samples": 1,
-      "note": "used complete handsets, title-filtered, 2026-10-19; backmarket.de listing 900-949 EUR (2026-10-19, search snippet); backmarket.de from 385 EUR (from price; 564 base tier), 2026-10-19"
+      "samples": null,
+      "note": null
     },
     {
       "device": "oneplus-aston",
