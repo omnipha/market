@@ -1,6 +1,6 @@
 {
   "currency": "EUR",
-  "observed": "2026-10-26",
+  "observed": "2026-10-27",
   "source": "aggregated used-market observations",
   "devices": [
     {
@@ -1310,6 +1310,15 @@
       "estimate_eur": [
         500,
         554
+      ],
+      "samples": null,
+      "note": null
+    },
+    {
+      "device": "xiaomi-nezha",
+      "estimate_eur": [
+        860.5,
+        989.0
       ],
       "samples": null,
       "note": null
